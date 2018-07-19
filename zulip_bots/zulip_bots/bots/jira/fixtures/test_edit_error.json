@@ -6,7 +6,7 @@
       "Authorization": "Basic ZXhhbXBsZUBleGFtcGxlLmNvbTpxd2VydHkhMTIz",
       "Content-type": "application/json"
     },
-    "data": {
+    "json": {
       "fields": {
         "summary": "Change the summary",
         "project": { 
